@@ -1,6 +1,8 @@
 # Telegram-Self-deprecating-bot
 Telegram Self-deprecating bot
-https://www.facebook.com/zerocruch/
-https://tiktok.com/@zerocruch
-https://www.youtube.com/@zerocruch
-https://www.instagram.com/zerocruch_
+
+
+<a href="https://www.facebook.com/zerocruch/">Facebook</a><br>
+<a href="https://tiktok.com/@zerocruch">TikTok</a><br>
+<a href="https://www.instagram.com/zerocruch_">Instagram</a><br>
+<a href="https://www.youtube.com/@zerocruch">Youtube</a><br>
